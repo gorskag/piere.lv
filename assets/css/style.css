@@ -153,7 +153,7 @@ html, body{
 
 /* --- Sponsors --- */
 #sponsors{
-    background: url(/assets/img/Subtract.png);
+    background: url(assets/img/Subtract.png);
     background-repeat: repeat-x;
 }
 
@@ -171,7 +171,7 @@ html, body{
 /* --- Footer --- */
 
 #footer{
-    background: url(/assets/img/Subtract2.png);
+    background: url(assets/img/Subtract2.png);
     background-repeat: repeat-x;
     margin-top: -35px;
     
