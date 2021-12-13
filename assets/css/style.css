@@ -1,17 +1,17 @@
 /* --- Body --- */
 @font-face {
     font-family: Montserrat;
-    src: url('/assets/font/Montserrat-Regular.ttf') format('truetype');
+    src: url('assets/font/Montserrat-Regular.ttf') format('truetype');
     font-weight: 500;
 }
 @font-face {
     font-family: MonsterratBold;
-    src: url('/assets/font/Montserrat-Medium.ttf') format('truetype');
+    src: url('assets/font/Montserrat-Medium.ttf') format('truetype');
     font-weight: 500;
 }
 @font-face {
     font-family: Oswald;
-    src: url('/assets/font/Oswald-Medium.ttf') format('truetype');
+    src: url('assets/font/Oswald-Medium.ttf') format('truetype');
     font-weight: 500;
 }
 
