@@ -1,17 +1,17 @@
 /* --- Body --- */
 @font-face {
     font-family: Montserrat;
-    src: url('assets/font/Montserrat-Regular.ttf') format('truetype');
+    src: url('../font/Montserrat-Regular.ttf') format('truetype');
     font-weight: 500;
 }
 @font-face {
     font-family: MonsterratBold;
-    src: url('assets/font/Montserrat-Medium.ttf') format('truetype');
+    src: url('../font/Montserrat-Medium.ttf') format('truetype');
     font-weight: 500;
 }
 @font-face {
     font-family: Oswald;
-    src: url('assets/font/Oswald-Medium.ttf') format('truetype');
+    src: url('../font/Oswald-Medium.ttf') format('truetype');
     font-weight: 500;
 }
 
@@ -22,9 +22,11 @@ html, body{
 }
 /* --- Navigation --- */
 #navbarFont{
-    font-family: MonsterratBold;
+    font-family: Montserrat;
     font-style: normal;
+    font-weight: 500;
     font-size: 18px;
+    line-height: 22px;
 }
 
 #mainNav {
@@ -153,9 +155,9 @@ html, body{
 
 /* --- Sponsors --- */
 #sponsors{
-    background: url(assets/img/Subtract.png);
+    background: url(../img/Subtract.png);
     background-repeat: repeat-x;
-    background-color: #ffcb66;
+
 }
 
 #sponsors-list{
@@ -172,10 +174,9 @@ html, body{
 /* --- Footer --- */
 
 #footer{
-    background: url(assets/img/Subtract2.png);
+    background: url(../img/Subtract2.png);
     background-repeat: repeat-x;
     margin-top: -35px;
-    background-color: #2f4858;
 }
 #footer > div > div > h5{
     font-size: 24px;
