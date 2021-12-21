@@ -165,7 +165,14 @@
     }
 
     #sponsors-list > img{
-        width: 130px;
+        width: 131px;
+        margin-left: 20px;
+    }
+
+    #sponsors-list > img.linearis{
+        width: 48px;
+        margin-left: 59px;
+        margin-top: 34px;
     }
 
     .font2{
